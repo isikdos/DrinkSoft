@@ -1,6 +1,4 @@
-This is a quick and dirty readme for this database.
-
-It was written as a fun exercise after my friends and I realized we may have planned too many drinks with orange juice for our fruity drinks night.
+This database was written as a fun exercise after my friends and I realized we may have planned too many drinks with orange juice for our fruity drinks night.
 The database is in a state I would consider ready for testing, although no professional eyes have judged it. 
 It is populated with what I believe to be reasonable constraints and a well structured table system. There are no indices, this is intentional 
   because there also aren't really queries for it yet. Inclusion of indices may well be done after statistics are gained through test use and 
